@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "904105080766",
+    "project_id": "bistro-notes",
+    "storage_bucket": "bistro-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904105080766:android:c30ad68e4fb8b6828fabef",
+        "android_client_info": {
+          "package_name": "com.example.bistro_flutter_yt_tut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_PzM5LXaAWSDu1UxCMaJaaaq0XK5I7Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
